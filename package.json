@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Resume project in JSON resume format",
+  "main": "resume.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfaleleev/CV.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Dmitry Faleleev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfaleleev/CV/issues"
+  },
+  "homepage": "https://github.com/dfaleleev/CV#readme"
+}
