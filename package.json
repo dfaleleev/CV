@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dfaleleev/CV/issues"
   },
-  "homepage": "https://github.com/dfaleleev/CV#readme"
+  "homepage": "https://github.com/dfaleleev/CV#readme",
+  "dependencies": {
+    "resume-cli": "^1.2.4"
+  }
 }
