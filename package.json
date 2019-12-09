@@ -4,7 +4,7 @@
   "description": "Resume project in JSON resume format",
   "main": "resume.json",
   "scripts": {
-    "export": "node C:/Projects/CV/node_modules/resume-cli/index.js export resume.pdf"
+    "export": "node C:/Projects/CV/node_modules/resume-cli/index.js export ./export/resume.pdf"
   },
   "repository": {
     "type": "git",
