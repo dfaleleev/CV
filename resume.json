@@ -1,89 +1,65 @@
 {
   "basics": {
     "name": "Dmitry Faleleev",
-    "label": "Programmer",
+    "label": "Software Engineer / Architect",
     "picture": "",
     "email": "dfaleleev@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(860) 805-4705",
+    "website": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "5 Banks Rd",
+      "postalCode": "CT 06070",
+      "city": "Simsbury",
       "countryCode": "US",
-      "region": "California"
+      "region": "Connecticut"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
+        "network": "LinkedIn",
+        "username": "dfaleleev",
         "url": ""
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Pluralsight",
+        "username": "dfaleleev",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "VIAcode Consulting",
+      "position": "Software Engineer",
+      "website": "http://viacode.com",
+      "startDate": "2005-03-09",
+      "endDate": "2020-01-01",
+      "summary": "",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
+      "institution": "Institute of Fine Mechanics and Optics",
+      "area": "Information Technology and Mathematics",
+      "studyType": "Master",
+      "startDate": "1998-09-01",
+      "endDate": "2004-06-01",
       "gpa": "4.0",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "title": "High Performance Award",
+      "date": "2013-01-01",
+      "awarder": "Wolters Kluwer - TyMetrix",
+      "summary": "For effort in addressing client-side performance issues on project critical for business. Which helped to do critical release in time."
     }
   ],
   "skills": [
@@ -93,38 +69,45 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "Typescript"
       ]
     },
     {
-      "name": "Compression",
+      "name": ".Net",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "ASP.NET",
+        "ASP.NET Core",
+        "Web API"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Master",
+      "keywords": [
+        "SQL"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+      "fluency": "Fluent"
+    },
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "language": "Russian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "C#",
+      "fluency": "Almost Native"
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "",
+      "reference": ""
     }
   ]
 }
