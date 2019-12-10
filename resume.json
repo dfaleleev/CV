@@ -18,12 +18,19 @@
       {
         "network": "LinkedIn",
         "username": "dfaleleev",
-        "url": ""
+        "url": "https://www.linkedin.com/in/dfaleleev"
       },
       {
         "network": "Pluralsight",
         "username": "dfaleleev",
-        "url": ""
+        "url": "https://app.pluralsight.com/profile/dfaleleev"
+      },
+      {
+        "network": "Microsoft Certification Transcript",
+        "username": "dfaleleev",
+        "transcriptId": "694904",
+        "accessCode": "dfaleleev",
+        "url": "https://mcp.microsoft.com/Anonymous//Transcript/Validate"
       }
     ]
   },
