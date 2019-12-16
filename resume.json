@@ -5,8 +5,8 @@
     "picture": "",
     "email": "dfaleleev@gmail.com",
     "phone": "(860) 805-4705",
-    "website": "",
-    "summary": "",
+    "website": "https://www.linkedin.com/in/dfaleleev",
+    "summary": "Senior Software Engineer with more than 15 years of software development, architecture and project management experience. Primary development platform Microsoft .Net. Specialization: Web Development, Enterprise Applications",
     "location": {
       "address": "5 Banks Rd",
       "postalCode": "CT 06070",
@@ -36,7 +36,7 @@
   },
   "work": [
     {
-      "company": "VIAcode Consulting",
+      "company": "ELM Solutions (VIAcode Consulting",
       "position": "Software Engineer",
       "website": "http://viacode.com",
       "startDate": "2005-03-09",
@@ -66,13 +66,21 @@
       "title": "High Performance Award",
       "date": "2013-01-01",
       "awarder": "Wolters Kluwer - TyMetrix",
-      "summary": "For effort in addressing client-side performance issues on project critical for business. Which helped to do critical release in time."
+      "summary": "For effort to address client-side performance issues on critical project, which helped to release it "
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Object-Oriented Design and Software Architecture",
       "level": "Master",
+      "keywords": [
+        "Design Patterns",
+        "UML"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
@@ -90,10 +98,11 @@
       ]
     },
     {
-      "name": "SQL",
-      "level": "Master",
+      "name": "Performance tuning (Client-Side Web  and Database)",
+      "level": "Good",
       "keywords": [
-        "SQL"
+        "SQL",
+        "Web"
       ]
     }
   ],
