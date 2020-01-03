@@ -6,7 +6,7 @@
     "email": "dfaleleev@gmail.com",
     "phone": "(860) 805-4705",
     "website": "https://www.linkedin.com/in/dfaleleev",
-    "summary": "Senior Software Engineer with more than 15 years of software development, architecture and project management experience. Primary development platform Microsoft .Net. Specialization: Web Development, Enterprise Applications",
+    "summary": "Senior Software Engineer with 20 years of experience in software development, architecture and project management. Specializing on Web Development of Enterprise Applications. Passioned about complex technical challenges such as performance tuning, web application security and cloud native applications.",
     "location": {
       "address": "5 Banks Rd",
       "postalCode": "CT 06070",
@@ -24,144 +24,42 @@
         "network": "Pluralsight",
         "username": "dfaleleev",
         "url": "https://app.pluralsight.com/profile/dfaleleev"
-      },
-      {
-        "network": "Microsoft Certification Transcript",
-        "username": "dfaleleev",
-        "transcriptId": "694904",
-        "accessCode": "dfaleleev",
-        "url": "https://mcp.microsoft.com/Anonymous//Transcript/Validate"
       }
     ]
   },
   "work": [
     {
-      "company": "VIAcode Consulting (onsite contract for ELM Solutions)",
+      "company": "VIAcode Consulting (onsite position for ELM Solutions)",
       "position": "Senior Software Engineer",
       "website": "http://viacode.com",
       "startDate": "2015-03-01",
-      "endDate": "2020-01-01",
-      "summary": "As a platform team member works on the most critical projects for T360 Infrastructure. ",
+      "summary": "As a platform team member worked on the most critical projects for T360 Infrastructure such as: Web API for Unified UI Platform, Spa Web Site optimized for mobile devices, tenant-specific data removal and Establishing CI/CD process",
       "highlights": [
-        "Design Discussion and Review",
-        "Development and Code Review",
-        "Design and Code Review for system critical changes implemented by other teams",
-        "Requirement review and discussion with product owners",
-        "Feature documentation",
-        "Feature demo for product owners"
-      ]
+        "Aim to better software design through design discussion, review and documentation",
+        "Design and code review for system critical changes implemented by other teams",
+        "Design proposal and estimation for high-level requirements",
+        "Web Apps and API on ASP .Net and ASP.Net Core with Microsoft SQL Server (TSQL) as Database",
+        "SSO Authentication SAML, OAUTH, WS-Federation",
+        "IdentityServer – as framework for OAuth2/OpenID Connect implementation",
+        "React/Redux – Primary framework for JavaScript/TypeScript apps",
+        "Markdown + PlantUML – proved to be a good option for design documentation as a code",
+        "PowerShell – primary scripting language",
+        "Microsoft Azure & Azure CLI"
+     ]
     },
     {
-      "position": "API for Unified UI platform",
-      "startDate": "2019-10-01",
-      "endDate": "2020-01-01",
-      "summary": "Based on the positive experience with the previous React Spa Web site the business decided to make a unified user interface for multiple products. Multi-Tenant T360 (.Net based) and On-Premise Passport (Java-based) apps have similar goals, but completely different in the technology stack and user interface. To improve overall user experience and reduce development cost it was decided to create a unified Spa application (app framework) that communicates with API using unified JSON Web API interfaces. Work in a team responsible for building JSON Web API for the T360 Platform.",
-      "highlights": [
-        "SAFe Agile Framework – to facilitate work between multiple teams",
-        "ASP .Net Core 2.1 as engine for API",
-        "Microsoft SQL Server (TSQL) - Database",
-        "IdentityServer v4 – as framework for OAuth2\\OpenID Connect implementation",
-        "React/Redux – Primary SPA framework",
-        "Markdown + PlantUML – for design documentation"
-      ]
-    },
-    {
-      "position": "Spa Web Site optimized for mobile devices",
-      "startDate": "2017-03-01",
-      "endDate": "2019-09-01",
-      "summary": "The business struggled with supporting outdated mobile (iOS and Android) applications for invoice review. These applications developed by the separate vendor were limited in functionality and required periodical system updates. As a team, we  had to find an efficient way to satisfy the needs of our customers to easily do invoice related tasks on mobile devices and simplify future feature extension. As a result, we came to a mobile-oriented SPA application with React/Redux on Client-side and ASP.Net Web Api on the server. Spa Web application performs smooth work of users on their phones and tablets, universal web platform helps us to have the same client on iOS, Android and Desktop platforms just adjusting shown information to the screen size. Extension of Web API service endpoint has another goal to extract the most used feature from the monolith web app to the set of services. It should help with a further redesign of the primary system.",
-      "highlights": [
-        "Microsoft SQL Server (TSQL) - Database",
-        "ASP .Net Core for API",
-        "IdentityServer v4 – as framework for OAuth2\\OpenID Connect implementation",
-        "React/Redux – Primary SPA framework",
-        "TypeScript",
-        "Office.js platform – used for integration of developed SPA application with Outlook."
-      ]
-    },
-    {
-      "position": "Remove Single Tenant data from the multi-tenant database (GDPR right to be forgotten)",
-      "startDate": "2016-12-01",
-      "endDate": "2017-03-01",
-      "summary": "The business had to satisfy a client’s GDPR right to request data removal after contract termination. There were several attempts to solve this issue before, using a complicated set of SQL scripts. The database has more than 500 entity tables, so such scripts are extremely expensive in development, testing, and were brittle, so rarely survived more than one release. Due to the contract obligations timeline, we had to find another way to develop data removal scripts much faster and make it supportable in the future. I suggested a solution to use Net200 DataBee to facilitate getting identifiers of entities that belongs to a specific tenant. The team agreed with the solution and my estimations, so I took the Solution Architect role for this project. The automated approach helped us to successfully remove data in time and complete the initial goal. We transferred the framework to another team to do further data cleanup tasks.",
-      "highlights": [
-        "C# - primary development language to implement tasks with database dependency: get database structure, find foreign key dependency, find entities that tenant-specific, find cycles and create proper drop dependency.",
-        "PlantUML – as visualization component",
-        "PowerShell – as primary scripting and automation language to generate SQL tests and drop scripts",
-        "React/Redux – Primary SPA framework",
-        "Net200 DataBee – as an engine to extract entities to remove."
-      ]
-    },
-    {
-      "position": "Establish CI/CD infrastructure",
-      "startDate": "2015-02-01",
-      "endDate": "2016-12-01",
-      "summary": "As a team, we realized that the organization needs to have CI/CD infrastructure to consolidate deployment knowledge, reduce time and effort for production deployment and moving toward more service-oriented architecture in the future. It started as a team initiative to simplify the build and deployment of the most important components and quickly became a much bigger project for production CI/CD of whole T360 infrastructure.",
-      "highlights": [
-        "PowerShell – as a primary language for the build (PSAKE) and deployment automation",
-        "TeamCity – as CI and Build orchestration engine",
-        "Octopus Deploy – as a Deployment platform",
-        "NDepend – as static source code analysis"
-      ]
-    },
-    {
-      "company": "VIAcode Consulting (onsite contract for ELM Solutions)",
-      "position": "Senior Software Engineer - Technical Leader for Remote teams in Saint-Petersburg, Russia",
+      "company": "VIAcode Consulting (onsite position for ELM Solutions)",
+      "position": "Technical Lead",
       "website": "http://viacode.com",
       "startDate": "2012-06-01",
       "endDate": "2015-03-01",
-      "summary": "Participated in different projects related to Wolters Kluwer – TyMetrix 360 Platform. Worked using Scrum methodology as part of different teams on different roles."
-    },
-    {
-      "position": "Private Data Access",
-      "startDate": "2014-11-01",
-      "endDate": "2015-03-01",
-      "summary": "The goal of the project was to create a solution that allows the business to avoid having Production backup in public access for the development team. The project has been implemented by the outsource team located in Russia (Rostov). Worked in the role of Technical Leader and took extra responsibility of the Product Owner role.",
+      "summary": "Worked as technical leader and onsite representative for different offshore teams.",
       "highlights": [
-        ".Net",
-        "Power Shell",
-        "Net2000 Data Masker (a tool used for data obfuscation)",
-        "Net 2000 Data Bee (a tool used for data sub-setting)"
-      ]
-    },
-    {
-      "position": "Performance Tuning (Client-Side and Database)",
-      "startDate": "2014-11-01",
-      "endDate": "2015-03-01",
-      "summary": "Participated in several Performance Tuning projects as the lead engineer of the team (up to five engineers) in the following areas: Web Client-Side, Web Browser Memory Consumption and Leaks, Database Calls, Replication and FTS indexing. It is my favorite kind of engineering activity due to its technical complexity, tight timeline and importance for clients. All these components together give feeling that you make something important and significant.",
-      "highlights": [
-        "Received High-Performance Award in 2013",
-        "Http Watch",
-        "Chrome Development Tools",
-        "Dynatrace AJAX Edition",
-        "SQL Server Profiler",
-        "Microsoft  SQL Server Management Studio",
-        "SQL Sentry Plan Explorer",
-        "Precise I3"
-      ]
-    },
-    {
-      "position": "Client-Side Migration (Client-Side and Database)",
-      "startDate": "2013-02-01",
-      "endDate": "2013-05-01",
-      "summary": "Project goal: Find an effective solution to migrate TyMetrix 360 Web Application from IE7 Compatible mode to standard mode to work similarly with the recent versions of Chrome and IE (9+).",
-      "highlights": [
-        "Leading an offshore team of 2 developers and 1 QA.",
-        "R&D to determine potential rendering and behaving issues between different IE modes",
-        "Communication with Product Owner (establish proper expectations and timelines).",
-        "Develop an automation-testing engine using Selenium to compare behavior in different browsers."
-      ]
-    },
-    {
-      "position": "UI Redesign Project",
-      "startDate": "2012-06-01",
-      "endDate": "2013-02-01",
-      "summary": "Project goal:  Significant increase in usability of the existing system. Secondary goal: Add multi-browser support and migrate system form ASP.Net 2.0 platform to ASP.Net MVC 4.0. Software Development Methodology: Scrum (Distributed teams)",
-      "highlights": [
+        "Received High-Performance Award in 2013 (effort for client-side performance optimization)",
         "Project leading and team coordination (10 engineers).",
-        "Lead team responsible for adding multi-browser support.",
-        "Technical decisions and Architecture",
-        "Represent team on the scrum of scrum meetings"
+        "Made Technical decisions for solutions.",
+        "Client-Site and SQL Performance Tuning",
+        "Masking and Obfuscating Production data for development needs"
       ]
     },
     {
@@ -173,14 +71,12 @@
       "summary": "Coordination and facilitation of all outsource activities between VIAcode and CT TyMetrix.",
       "highlights": [
         "Manage all development and testing activities (50+ engineers)",
+        "Design review and presentation",
         "Coordinate activities of managers and team leaders of the offshore team and customer representatives.",
         "Communication with customer’s representatives (collaboration and reporting).",
-        "Design review and presentation",
         "Coordinate troubleshooting and root cause analysis for production critical cases",
-        "Project leading",
         "Release management",
-        "Requirement analysis",
-        "Customer billing"
+        "Requirement analysis"
       ]
     },
     {
@@ -191,13 +87,11 @@
       "endDate": "2009-10-01",
       "summary": "Management and coordination for all outsource development activities for particular client (CT TyMetrix).",
       "highlights": [
-        "Manage all development activity (33 people)",
-        "Oversee project team and day-to-day activities.",
-        "Coordinate activities of Team Leads (5 leads)",
+        "Manage all development activity (5 dev leads and 28 developers)",
         "Communication with customer’s representatives (collaboration and reporting).",
         "Team Management (Recruit, form and optimize team structure)",
-        "Release Management",
-        "Process Management (measure efficiency and optimization )",
+        "Release Planning and Management",
+        "Process Management (measure efficiency and optimization proposals)",
         "Solve and prevent problems; keep projects on schedule and within budget",
         "High-level analysis of business requirements"
       ]
@@ -212,7 +106,6 @@
       "highlights": [
         "Design, cost (working hours) and schedule.",
         "Design and code review.",
-        "Create project plans in MS Project.",
         "Solve technical and planning problems.",
         "Analysis of business requirements.",
         "Communication with customers."
@@ -227,6 +120,7 @@
       "summary": "Web application development using ASP.Net",
       "highlights": [
         "Architecture, Business Logic and Databases Design for developed modules.",
+        "Implemented Data Import subsystem",
         "Performance tuning of Large Data Imports."
       ]
     },
@@ -238,9 +132,9 @@
       "endDate": "2005-03-01",
       "summary": "Worked as C++, Java, .Net and ASP.Net developer on different projects.",
       "highlights": [
-        "Billing and customer counting system.",
+        "Billing and customer accounting system.",
         "EPMLens (Web-Based enterprise modeling application)",
-        "Automation testing environment – TWS (Testware Widgets Suite)"
+        "UI Automation testing engine for Windows Form applications"
       ]
     }
   ],
@@ -250,10 +144,13 @@
       "area": "Information Technology and Mathematics",
       "studyType": "Master",
       "startDate": "1998-09-01",
-      "endDate": "2004-06-01",
-      "gpa": "4.0",
-      "courses": [
-      ]
+      "endDate": "2004-06-01"
+    },
+    {
+      "institution": "Microsoft",
+      "area": "Microsoft Certified Solution Developer",
+      "studyType": "Certification",
+      "startDate": "2007-01-01"
     }
   ],
   "awards": [
@@ -269,6 +166,7 @@
       "name": "Object-Oriented Design and Software Architecture",
       "level": "Master",
       "keywords": [
+        "Design Principles",
         "Design Patterns",
         "UML"
       ]
@@ -279,16 +177,14 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript",
-        "Typescript"
+        "Javascript/Typescript"
       ]
     },
     {
       "name": ".Net",
       "level": "Master",
       "keywords": [
-        "ASP.NET",
-        "ASP.NET Core",
+        "ASP.NET and ASP .NET Core",
         "Web API"
       ]
     },
@@ -313,12 +209,6 @@
     {
       "language": "C#",
       "fluency": "Almost Native"
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
     }
   ]
 }
