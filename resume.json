@@ -5,7 +5,7 @@
     "email": "dfaleleev@gmail.com",
     "phone": "(860) 805-4705",
     "website": "https://www.linkedin.com/in/dfaleleev",
-    "summary": "Senior Software Engineer with 20 years of experience in software development, architecture and project management. Specializing on Web Development of Enterprise Applications. Passioned about complex technical challenges such as performance tuning, web application security and cloud-native applications.",
+    "summary": "Senior software engineer with 20 years of experience in software development, architecture and project management. Specializing on Web Development of Enterprise Applications. Passioned about complex technical challenges such as performance tuning, web application security and cloud-native applications. Currently working as s senior software engineer on a Wolters Kluwer ELM Solutions platform team adding my effort in improving T360 legal management services.",
     "location": {
       "address": "5 Banks Rd",
       "postalCode": "CT 06070",
@@ -30,51 +30,48 @@
     {
       "company": "VIAcode Consulting (onsite position for ELM Solutions)",
       "position": "Senior Software Engineer",
-      "website": "http://viacode.com",
+      "website": "https://www.wkelmsolutions.com/",
       "startDate": "2015-03-01",
-      "summary": "As a platform team member worked on the most critical projects for T360 Infrastructure such as Web API for Unified UI Platform, Spa Web Site optimized for mobile devices, tenant-specific data removal and Establishing CI/CD process",
+      "summary": "As a platform team member worked on the most critical projects for T360 Infrastructure such as Web API for Unified UI Platform, Spa Web Site optimized for mobile devices, tenant-specific data removal and Establishing CI/CD process.",
       "highlights": [
-        "Constant software design improvement through design discussion, review and documentation",
-        "Design and code review for system critical changes implemented by other teams",
-        "Design proposal and estimation for high-level requirements",
-        "Web Apps and API on ASP .Net and ASP.Net Core with Microsoft SQL Server (TSQL) as Database",
-        "Use IdentityServer – as a framework for OAuth2/OpenID Connect implementation (SSO for SAML, WS-Fed) ",
-        "SPA applications based on React/Redux framework with TypeScript",
-        "Markdown + PlantUML – proved to be a good option for design documentation as a code",
-        "PowerShell – primary scripting language",
-        "Microsoft Azure & Azure CLI"
+        "Constant software design improvement through design discussion, review, and documentation as a process.",
+        "Performed design and code review for system critical changes implemented by other teams.",
+        "Performed design proposal and estimation for high-level requirements.",
+        "Developed Web Apps and API on ASP .Net and ASP.Net Core with Microsoft SQL Server (TSQL) as Database.",
+        "Introduced IdentityServer – as a framework for OAuth2/OpenID Connect implementation (SSO for SAML, WS-Fed).",
+        "Worked on several SPA applications based on React/Redux framework with TypeScript.",
+        "Introduced Markdown + PlantUML – as a good option for design documentation as a code.",
+        "Used Microsoft Azure & Azure CLI as a cloud hosting environment."
      ]
     },
     {
       "company": "VIAcode Consulting (onsite position for ELM Solutions)",
       "position": "Technical Lead",
-      "website": "http://viacode.com",
+      "website": "https://www.wkelmsolutions.com/",
       "startDate": "2012-06-01",
       "endDate": "2015-03-01",
       "summary": "Worked as a technical leader and onsite representative for different offshore teams.",
       "highlights": [
-        "Received High-Performance Award in 2013 (effort for client-side performance optimization)",
-        "Project leading and team coordination (10 engineers).",
-        "Made Technical decisions for solutions.",
-        "Client-Site and SQL Performance Tuning",
-        "Masking and Obfuscating Production data for development needs"
+        "Received High-Performance Award in 2013 (effort for client-side performance optimization).",
+        "Lead multiple projects with remote teams (10 engineers).",
+        "Made Technical decisions for developed solutions.",
+        "Participated in client-site and SQL performance troubleshooting and tuning.",
+        "Established production data masking and obfuscation process for development needs."
       ]
     },
     {
       "company": "VIAcode Consulting",
       "position": "Project Coordinator",
       "website": "http://viacode.com",
-      "startDate": "2015-03-01",
-      "endDate": "2020-01-01",
-      "summary": "Coordination and facilitation of all outsource activities between VIAcode and CT TyMetrix.",
+      "startDate": "2009-11-01",
+      "endDate": "2012-06-01",
+      "summary": "Performed coordination and facilitation of all outsource activities between VIAcode and CT TyMetrix.",
       "highlights": [
-        "Manage all development and testing activities (50+ engineers)",
-        "Design review and presentation",
-        "Coordinate activities of managers and team leaders of the offshore team and customer representatives.",
-        "Communication with customer’s representatives (collaboration and reporting).",
-        "Coordinate troubleshooting and root cause analysis for production critical cases",
-        "Release management",
-        "Requirement analysis"
+        "Managed and coordinated all development and testing activities (50+ engineers in multiple teams).",
+        "Was responsible for architecture and design review and collaboration with the customer.",
+        "Coordinated activities of project managers and team leaders of the offshore team and customer representatives.",
+        "Coordinated troubleshooting and root cause analysis for production critical cases.",
+        "Was involved in all stages of SDLC from requirement analysis to release management and maintenance."
       ]
     },
     {
@@ -82,15 +79,13 @@
       "position": "Project Manager",
       "startDate": "2007-10-01",
       "endDate": "2009-10-01",
-      "summary": "Management and coordination for all outsource development activities for a particular client (CT TyMetrix).",
+      "summary": "Handled all outsource development activities for a particular client (CT TyMetrix).",
       "highlights": [
-        "Manage all development activity (5 dev leads and 28 developers)",
+        "Managed all development activity (5 dev leads and 28 developers)",
         "Communication with customer’s representatives (collaboration and reporting).",
-        "Team Management (Recruit, form and optimize team structure)",
-        "Release Planning and Management",
-        "Process Management (measure efficiency and optimization proposals)",
-        "Solve and prevent problems; keep projects on schedule and within budget",
-        "High-level analysis of business requirements"
+        "Was responsible for team Management (Recruit, form and optimize team structure).",
+        "Handled release and feature planning. Kept projects on schedule and within budget.",
+        "Process Management (measure efficiency and optimization proposals)."
       ]
     },
     {
@@ -101,11 +96,9 @@
       "endDate": "2007-10-01",
       "summary": "Management and technical leadership for projects in small teams (about 3 developers).",
       "highlights": [
-        "Design, cost (working hours) and schedule.",
-        "Design and code review.",
-        "Solve technical and planning problems.",
-        "Analysis of business requirements.",
-        "Communication with customers."
+        "Fully managed small projects from requirements analysis to maintenance phases.",
+        "Was responsible for design and code quality on proposed solutions.",
+        "Solved both technical and planning issues."
       ]
     },
     {
@@ -116,9 +109,9 @@
       "endDate": "2006-10-01",
       "summary": "Web application development using ASP.Net",
       "highlights": [
-        "Architecture, Business Logic and Databases Design for developed modules.",
-        "Implemented Data Import subsystem",
-        "Performance tuning of Large Data Imports."
+        "Was responsible for system design, business logic and database structure and performance for developed modules.",
+        "Implemented Data Import subsystem which took a critical role in client data migration and synchronization flows.",
+        "Optimized performance of large and time-critical data imports."
       ]
     },
     {
@@ -130,8 +123,8 @@
       "summary": "Worked as C++, Java, .Net and ASP.Net developer on different projects.",
       "highlights": [
         "Billing and customer accounting system.",
-        "EPMLens (Web-Based enterprise modeling application)",
-        "UI Automation testing engine for Windows Form applications"
+        "EPMLens (Web-Based enterprise modeling application).",
+        "UI Automation testing engine for Windows Form applications."
       ]
     }
   ],
@@ -192,7 +185,7 @@
       "keywords": [
         "Microsoft Azure",
         "Docker",
-        "Kubernetes",
+        "Kubernetes and AKS (pet projects)",
         "Continuous Integration (Octopus + Team City)"
       ]
     },
