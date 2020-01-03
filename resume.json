@@ -2,11 +2,10 @@
   "basics": {
     "name": "Dmitry Faleleev",
     "label": "Software Engineer / Architect",
-    "picture": "",
     "email": "dfaleleev@gmail.com",
     "phone": "(860) 805-4705",
     "website": "https://www.linkedin.com/in/dfaleleev",
-    "summary": "Senior Software Engineer with 20 years of experience in software development, architecture and project management. Specializing on Web Development of Enterprise Applications. Passioned about complex technical challenges such as performance tuning, web application security and cloud native applications.",
+    "summary": "Senior Software Engineer with 20 years of experience in software development, architecture and project management. Specializing on Web Development of Enterprise Applications. Passioned about complex technical challenges such as performance tuning, web application security and cloud-native applications.",
     "location": {
       "address": "5 Banks Rd",
       "postalCode": "CT 06070",
@@ -33,15 +32,14 @@
       "position": "Senior Software Engineer",
       "website": "http://viacode.com",
       "startDate": "2015-03-01",
-      "summary": "As a platform team member worked on the most critical projects for T360 Infrastructure such as: Web API for Unified UI Platform, Spa Web Site optimized for mobile devices, tenant-specific data removal and Establishing CI/CD process",
+      "summary": "As a platform team member worked on the most critical projects for T360 Infrastructure such as Web API for Unified UI Platform, Spa Web Site optimized for mobile devices, tenant-specific data removal and Establishing CI/CD process",
       "highlights": [
-        "Aim to better software design through design discussion, review and documentation",
+        "Constant software design improvement through design discussion, review and documentation",
         "Design and code review for system critical changes implemented by other teams",
         "Design proposal and estimation for high-level requirements",
         "Web Apps and API on ASP .Net and ASP.Net Core with Microsoft SQL Server (TSQL) as Database",
-        "SSO Authentication SAML, OAUTH, WS-Federation",
-        "IdentityServer – as framework for OAuth2/OpenID Connect implementation",
-        "React/Redux – Primary framework for JavaScript/TypeScript apps",
+        "Use IdentityServer – as a framework for OAuth2/OpenID Connect implementation (SSO for SAML, WS-Fed) ",
+        "SPA applications based on React/Redux framework with TypeScript",
         "Markdown + PlantUML – proved to be a good option for design documentation as a code",
         "PowerShell – primary scripting language",
         "Microsoft Azure & Azure CLI"
@@ -53,7 +51,7 @@
       "website": "http://viacode.com",
       "startDate": "2012-06-01",
       "endDate": "2015-03-01",
-      "summary": "Worked as technical leader and onsite representative for different offshore teams.",
+      "summary": "Worked as a technical leader and onsite representative for different offshore teams.",
       "highlights": [
         "Received High-Performance Award in 2013 (effort for client-side performance optimization)",
         "Project leading and team coordination (10 engineers).",
@@ -82,10 +80,9 @@
     {
       "company": "Digital Engineering - St. Petersburg, Russia",
       "position": "Project Manager",
-      "website": "http://viacode.com",
       "startDate": "2007-10-01",
       "endDate": "2009-10-01",
-      "summary": "Management and coordination for all outsource development activities for particular client (CT TyMetrix).",
+      "summary": "Management and coordination for all outsource development activities for a particular client (CT TyMetrix).",
       "highlights": [
         "Manage all development activity (5 dev leads and 28 developers)",
         "Communication with customer’s representatives (collaboration and reporting).",
@@ -168,24 +165,36 @@
       "keywords": [
         "Design Principles",
         "Design Patterns",
-        "UML"
+        "UML",
+        "PlantUML - design as a code"
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Advanced",
+      "name": "Development Languages",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript/Typescript"
+        "C#",
+        "PowerShell",
+        "Javascript",
+        "Typescript"
       ]
     },
     {
-      "name": ".Net",
-      "level": "Master",
+      "name": "Frameworks/Libraries",
       "keywords": [
+        ".NET and .NET Core",       
         "ASP.NET and ASP .NET Core",
-        "Web API"
+        "React/Redux",
+        "IdentityServer",
+        "OAuth2/OIDC"
+      ]
+    },
+    {
+      "name": "Environment/Infrastructure",
+      "keywords": [
+        "Microsoft Azure",
+        "Docker",
+        "Kubernetes",
+        "Continuous Integration (Octopus + Team City)"
       ]
     },
     {
@@ -205,10 +214,6 @@
     {
       "language": "Russian",
       "fluency": "Native Speaker"
-    },
-    {
-      "language": "C#",
-      "fluency": "Almost Native"
     }
   ]
 }
