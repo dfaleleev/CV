@@ -161,7 +161,6 @@
   "skills": [
     {
       "name": "Object-Oriented Design and Software Architecture",
-      "level": "Master",
       "keywords": [
         "Design Principles",
         "Design Patterns",
@@ -198,11 +197,10 @@
       ]
     },
     {
-      "name": "Performance tuning (Client-Side Web  and Database)",
-      "level": "Good",
+      "name": "Performance tuning",
       "keywords": [
         "SQL",
-        "Web"
+        "Web (Client-Side + JavaScript)"
       ]
     }
   ],
