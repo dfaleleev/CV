@@ -6,6 +6,7 @@
   "scripts": {
     "html": "node ./node_modules/resume-cli/index.js export ./export/resume.html",
     "export": "node ./node_modules/resume-cli/index.js export ./export/resume.pdf",
+    "export:md": "node ./node_modules/resume-cli/index.js export --theme md ./export/resume-md.html",
     "export:detail": "node ./node_modules/resume-cli/index.js export ./export/resume-detail.pdf"
   },
   "repository": {
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/dfaleleev/CV#readme",
   "dependencies": {
+    "jsonresume-theme-md": "^1.1.1",
     "resume-cli": "^1.2.7"
   }
 }
